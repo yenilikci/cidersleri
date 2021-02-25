@@ -1,0 +1,2 @@
+# cidersleri
+ci dersleri notları
